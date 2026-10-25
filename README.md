@@ -365,8 +365,8 @@ Possible future additions include:
 
 **Your Name**
 
-- GitHub: [YOUR_USERNAME](https://github.com/sushi5456)
-- Repository: [Java-OOP](https://github.com/YOUR_USERNAME/Java-OOP)
+- GitHub: (https://github.com/sushi5456)
+- Repository: (https://github.com/sushi5456/OOPS-Through-JAVA)
 
 Feel free to explore the programs, practice the examples, and use this repository as a reference while learning Java Object-Oriented Programming.
 
