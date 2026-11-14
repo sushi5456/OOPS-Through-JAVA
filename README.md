@@ -363,7 +363,7 @@ Possible future additions include:
 
 ## 👤 Author
 
-**Your Name**
+**Mummidivarapu Sushanth**
 
 - GitHub: (https://github.com/sushi5456)
 - Repository: (https://github.com/sushi5456/OOPS-Through-JAVA)
